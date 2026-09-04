@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /offline.html
+
+Sitemap: https://techdat.lk/sitemap.xml

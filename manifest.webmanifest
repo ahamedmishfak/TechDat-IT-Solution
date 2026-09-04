@@ -1,0 +1,24 @@
+{
+  "name": "TechDat IT Solutions",
+  "short_name": "TechDat",
+  "description": "Phones, laptops, computers and IT accessories, plus network engineering and IT support in Sri Lanka.",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B1B33",
+  "theme_color": "#0B1B33",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["business", "shopping"],
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Mobile phones", "url": "phones.html" },
+    { "name": "Laptops", "url": "laptops.html" },
+    { "name": "Contact us", "url": "contact.html" }
+  ]
+}
