@@ -1,0 +1,45 @@
+<svg viewBox="14.5 2.5 131 155" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TechDat IT Solutions logo">
+<defs>
+<linearGradient id="rimF" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#6FF3E4"/><stop offset="38%" stop-color="#00C2CB"/>
+<stop offset="72%" stop-color="#2B4EFF"/><stop offset="100%" stop-color="#6FF3E4"/>
+</linearGradient>
+<linearGradient id="hexF" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#16305A"/><stop offset="100%" stop-color="#08152A"/>
+</linearGradient>
+<linearGradient id="markF" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#5EF0E8"/><stop offset="52%" stop-color="#00C2CB"/>
+<stop offset="100%" stop-color="#0090B8"/>
+</linearGradient>
+<linearGradient id="altF" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#FFFFFF"/><stop offset="45%" stop-color="#DCE6FA"/>
+<stop offset="100%" stop-color="#93A9D4"/>
+</linearGradient>
+<linearGradient id="bevAF" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="rgba(255,255,255,0.55)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+</linearGradient>
+<linearGradient id="bevBF" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="rgba(255,255,255,0.5)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+</linearGradient>
+</defs>
+<polygon points="80,6 142,42 142,118 80,154 18,118 18,42" fill="url(#hexF)" stroke="url(#rimF)" stroke-width="2.5"/>
+<polygon points="80,16 132,46 132,114 80,144 28,114 28,46" fill="none" stroke="url(#rimF)" stroke-width="0.8" opacity="0.45"/>
+<circle cx="80" cy="6" r="2.5" fill="url(#rimF)"/>
+<circle cx="142" cy="42" r="2.5" fill="url(#rimF)"/>
+<circle cx="142" cy="118" r="2.5" fill="url(#rimF)"/>
+<circle cx="80" cy="154" r="2.5" fill="url(#rimF)"/>
+<circle cx="18" cy="118" r="2.5" fill="url(#rimF)"/>
+<circle cx="18" cy="42" r="2.5" fill="url(#rimF)"/>
+<rect x="28" y="46" width="62" height="16" rx="2.5" fill="url(#markF)"/>
+<rect x="28" y="46" width="62" height="5" rx="2.5" fill="url(#bevAF)"/>
+<rect x="51" y="46" width="16" height="64" rx="2.5" fill="url(#markF)"/>
+<rect x="51" y="46" width="16" height="8" rx="2.5" fill="url(#bevAF)"/>
+<rect x="28" y="61" width="62" height="1" fill="rgba(0,0,0,0.2)"/>
+<rect x="66" y="52" width="13" height="58" rx="2" fill="url(#altF)"/>
+<rect x="66" y="52" width="13" height="7" rx="2" fill="url(#bevBF)"/>
+<polygon points="66,52 79,52 116,104 116,110 103,110" fill="url(#altF)"/>
+<polygon points="66,52 79,52 82,57 69,57" fill="rgba(255,255,255,0.35)"/>
+<rect x="103" y="52" width="13" height="58" rx="2" fill="url(#altF)"/>
+<rect x="103" y="52" width="13" height="7" rx="2" fill="url(#bevBF)"/>
+<line x1="36" y1="124" x2="124" y2="124" stroke="url(#rimF)" stroke-width="0.8" opacity="0.55"/>
+</svg>
