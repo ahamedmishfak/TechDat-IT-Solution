@@ -313,7 +313,8 @@ h3 { font-size: clamp(1.1rem, 2.2vw, 1.35rem); }
     radial-gradient(760px 400px at 4% 8%, rgba(43,78,255,.16), transparent 60%),
     var(--navy);
   color: #fff;
-  padding-block: clamp(40px, 5.4vw, 72px);
+  padding-top: clamp(18px, 2.4vw, 32px);
+  padding-bottom: clamp(40px, 5.4vw, 72px);
   position: relative; overflow: hidden;
 }
 .hero .lede { color: rgba(255,255,255,.72); }
@@ -687,7 +688,7 @@ h3 { font-size: clamp(1.1rem, 2.2vw, 1.35rem); }
 @media (max-width: 720px) {
   .tabbar { display: block; }
   .section { padding-block: 40px; }
-  .hero { padding-block: 34px 40px; }
+  .hero { padding-block: 18px 40px; }
   h1 { line-height: 1.14; }
   .card { padding: 18px; }
   .install { padding: 22px; }
